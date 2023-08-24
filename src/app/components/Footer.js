@@ -3,7 +3,7 @@ import Link from "next/link";
 import { FaYoutube, FaFacebook, FaInstagram, FaPinterest } from 'react-icons/fa';
 const Footer = () => {
   return (
-    <footer className="bg-primary bg-pattern py-16">
+    <footer className="bg-amber-800 bg-pattern py-16">
       <div className="container mx-auto">
         <div className="flex flex-col items-center gap-y-6 justify-center">
           {/* logo */}
@@ -27,7 +27,7 @@ const Footer = () => {
             </Link>
           </div>
           <div className="text-white font-medium">
-            Copyright &copy; Pizzaland 2023. All rights reserved
+            Copyright &copy; Madetostick 2023. All rights reserved
           </div>
         </div>
       </div>

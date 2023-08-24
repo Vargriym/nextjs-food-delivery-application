@@ -6,7 +6,7 @@ const CrustSelection = ({ crust, setCrust }) => {
         <label className='flex items-center gap-x-2 cursor-pointer'>
           <input
               className='appearance-none w-4 h-4 border border-gray-400 rounded-full
-              checked:bg-gradient-to-r checked:from-primary checked:to-secondary
+              checked:bg-gradient-to-r checked:from-amber-800 checked:to-secondary
                 checked:border-secondary cursor-pointer'
               type='radio'
               name='crust'
@@ -20,7 +20,7 @@ const CrustSelection = ({ crust, setCrust }) => {
         <label className='flex items-center gap-x-2 cursor-pointer'>
           <input
               className='appearance-none w-4 h-4 border border-gray-400 rounded-full
-              checked:bg-gradient-to-r checked:from-primary checked:to-secondary
+              checked:bg-gradient-to-r checked:from-amber-800 checked:to-secondary
                 checked:border-secondary cursor-pointer'
               type='radio'
               name='crust'

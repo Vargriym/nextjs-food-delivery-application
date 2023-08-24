@@ -67,11 +67,11 @@ const PizzaDetails = ({ pizza, setModal }) => {
               <div className="mb-6 text-lg font-medium">
                 <span>
                   {size === "small"
-                    ? "25 cm"
+                    ? "5 cm"
                     : size === "medium"
-                    ? "30cm"
+                    ? "10 cm"
                     : size === "large"
-                    ? "35 cm"
+                    ? "13 cm"
                     : null}
                 </span>
                 <span>, {crust} crust</span>
