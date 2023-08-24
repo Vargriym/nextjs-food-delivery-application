@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#introduction"><strong>Introduction</strong></a> ·
-  <a href="#tech-stack"><strong>Tech Stack</strong></a> .
+  <a href="#tech-stack"><strong>Tech Stack</strong></a> ·
     <a href="#view-demo"><strong>View Demo</strong></a>
 
 </p>
