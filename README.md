@@ -25,7 +25,7 @@ https://nextjs-food-delivery-application.vercel.app
 ## Introduction
 
 This application offers a comprehensive and feature-rich experience, allowing users to effortlessly order mouthwatering rice pudding, personalize their order with delectable extra toppings. <br>
-By seamlessly integrating a user-friendly interface, it creates an immersive and interactive experience that truly stands out.
+By seamlessly integrating a user-friendly interface, the application creates an immersive and interactive experience that truly stands out.
 
 ## Tech stack
 
