@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="typing test screenshot" src="https://github.com/Vargriym/nextjs-food-delivery-application/blob/main/public/proj-22.webp">
+    <img alt="typing test screenshot" src="https://github.com/Vargriym/nextjs-food-delivery-application/blob/main/public/interface.webp">
     <h1 align="center">Food Delivery Application</h1>
   </a>
 </p>
@@ -18,6 +18,7 @@
 <br/>
 
 ## View Demo
+https://nextjs-food-delivery-application.vercel.app
 
 <!-- ABOUT THE PROJECT -->
 
