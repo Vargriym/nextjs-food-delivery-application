@@ -1,6 +1,6 @@
 <p align="center">
-    <img alt="typing test screenshot" src="https://github.com/Vargriym/food-delivery-application-nextjs/blob/main/public/app-interface.png">
-    <h1 align="center">Food Delivery Application :pizza: </h1>
+    <img alt="typing test screenshot" src="https://github.com/Vargriym/nextjs-food-delivery-application/blob/main/public/proj-22.webp">
+    <h1 align="center">Food Delivery Application</h1>
   </a>
 </p>
 
@@ -11,15 +11,20 @@
 <p align="center">
   <a href="#introduction"><strong>Introduction</strong></a> ·
   <a href="#tech-stack"><strong>Tech Stack</strong></a>
+    <a href="#view-demo"><strong>View Demo</strong></a>
+
 </p>
 
 <br/>
+
+## View Demo
 
 <!-- ABOUT THE PROJECT -->
 
 ## Introduction
 
-This application offers a comprehensive and feature-rich experience, allowing users to effortlessly order mouthwatering pizzas, personalize them with delectable extra toppings. By seamlessly integrating a user-friendly interface, it creates an immersive and interactive experience that truly stands out.
+This application offers a comprehensive and feature-rich experience, allowing users to effortlessly order mouthwatering rice pudding, personalize their order with delectable extra toppings. <br>
+By seamlessly integrating a user-friendly interface, it creates an immersive and interactive experience that truly stands out.
 
 ## Tech stack
 
