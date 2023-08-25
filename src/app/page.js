@@ -43,7 +43,7 @@ const pizzas = [
   },
   {
     id: 2,
-    name: 'Honey & butter',
+    name: 'berries',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia recusandae dolorum enim eveniet. Mollitia laudantium, sunt blanditiis ratione quam delectus.',
     image: '/cheesy.webp',
@@ -191,7 +191,7 @@ const pizzas = [
   },
   {
     id: 6,
-    name: 'berries',
+    name: 'honey & butter',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia recusandae dolorum enim eveniet. Mollitia laudantium, sunt blanditiis ratione quam delectus.',
     image: '/pepperoni.webp',
