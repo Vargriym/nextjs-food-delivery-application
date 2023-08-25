@@ -6,7 +6,7 @@ import Pizza from './components/Pizza';
 const pizzas = [
   {
     id: 1,
-    name: 'Turkish',
+    name: 'Whipped Cream',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia recusandae dolorum enim eveniet. Mollitia laudantium, sunt blanditiis ratione quam delectus.',
     image: '/capricciosa.webp',
@@ -43,7 +43,7 @@ const pizzas = [
   },
   {
     id: 2,
-    name: 'Caramel',
+    name: 'Honey & butter',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia recusandae dolorum enim eveniet. Mollitia laudantium, sunt blanditiis ratione quam delectus.',
     image: '/cheesy.webp',
@@ -80,7 +80,7 @@ const pizzas = [
   },
   {
     id: 3,
-    name: 'blueberry',
+    name: 'ice cream',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia recusandae dolorum enim eveniet. Mollitia laudantium, sunt blanditiis ratione quam delectus.',
     image: '/hawaii.webp',
@@ -117,7 +117,7 @@ const pizzas = [
   },
   {
     id: 4,
-    name: 'italian',
+    name: 'white chocolate',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia recusandae dolorum enim eveniet. Mollitia laudantium, sunt blanditiis ratione quam delectus.',
     image: '/italian.webp',
@@ -127,7 +127,7 @@ const pizzas = [
     toppings: [
       {
         image: '/cherry.webp',
-        name: 'Chocolate chips ',
+        name: 'Chocolate chips',
         price: 2,
       },
       {
@@ -154,7 +154,7 @@ const pizzas = [
   },
   {
     id: 5,
-    name: 'Creamy',
+    name: 'Chocolate Syrup',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia recusandae dolorum enim eveniet. Mollitia laudantium, sunt blanditiis ratione quam delectus.',
     image: '/margherita.webp',
@@ -191,7 +191,7 @@ const pizzas = [
   },
   {
     id: 6,
-    name: 'Venezuelan',
+    name: 'berries',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia recusandae dolorum enim eveniet. Mollitia laudantium, sunt blanditiis ratione quam delectus.',
     image: '/pepperoni.webp',
@@ -228,7 +228,7 @@ const pizzas = [
   },
   {
     id: 7,
-    name: 'quattro formaggi',
+    name: 'caramel & Banana',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia recusandae dolorum enim eveniet. Mollitia laudantium, sunt blanditiis ratione quam delectus.',
     image: '/quattro-formaggi.webp',
@@ -265,7 +265,7 @@ const pizzas = [
   },
   {
     id: 8,
-    name: 'quattro stagioni',
+    name: 'blueberry',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia recusandae dolorum enim eveniet. Mollitia laudantium, sunt blanditiis ratione quam delectus.',
     image: '/quattro-stagioni.webp',
@@ -302,7 +302,7 @@ const pizzas = [
   },
   {
     id: 9,
-    name: 'tonno',
+    name: 'ice cream',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia recusandae dolorum enim eveniet. Mollitia laudantium, sunt blanditiis ratione quam delectus.',
     image: '/tonno.webp',
@@ -339,7 +339,7 @@ const pizzas = [
   },
   {
     id: 10,
-    name: 'vegetarian',
+    name: 'strawberry',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia recusandae dolorum enim eveniet. Mollitia laudantium, sunt blanditiis ratione quam delectus.',
     image: '/vegetarian.webp',
