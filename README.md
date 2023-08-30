@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  A food delivery application built with Next.js and Tailwind CSS.
+  A food delivery application built with Next.js and Tailwind CSS
 </p>
 
 <p align="center">
