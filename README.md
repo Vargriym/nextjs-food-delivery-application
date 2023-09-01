@@ -35,8 +35,8 @@ By seamlessly integrating a user-friendly interface, the application creates an 
 
 ## Tech stack
 
-- [Next.js]
-- [Tailwind]
-- [Vercel]
+- Next JS
+- Tailwind 
+- Vercel
 
 
