@@ -34,11 +34,6 @@ const pizzas = [
         name: 'Dried cranberry ',
         price: 2,
       },
-      {
-        image: '/parmesan.webp',
-        name: 'Caramel ',
-        price: 2,
-      },
     ],
   },
   {
@@ -69,11 +64,6 @@ const pizzas = [
       {
         image: '/jalapeno.webp',
         name: 'Dried cranberry ',
-        price: 2,
-      },
-      {
-        image: '/parmesan.webp',
-        name: 'Caramel ',
         price: 2,
       },
     ],
@@ -108,11 +98,6 @@ const pizzas = [
         name: 'Dried cranberry ',
         price: 2,
       },
-      {
-        image: '/parmesan.webp',
-        name: 'Caramel ',
-        price: 2,
-      },
     ],
   },
   {
@@ -143,11 +128,6 @@ const pizzas = [
       {
         image: '/jalapeno.webp',
         name: 'Dried cranberry ',
-        price: 2,
-      },
-      {
-        image: '/parmesan.webp',
-        name: 'Caramel ',
         price: 2,
       },
     ],
@@ -183,10 +163,6 @@ const pizzas = [
         price: 2,
       },
       {
-        image: '/parmesan.webp',
-        name: 'Caramel ',
-        price: 2,
-      },
     ],
   },
   {
@@ -219,11 +195,6 @@ const pizzas = [
         name: 'Dried cranberry ',
         price: 2,
       },
-      {
-        image: '/parmesan.webp',
-        name: 'Caramel ',
-        price: 2,
-      },
     ],
   },
   {
@@ -254,11 +225,6 @@ const pizzas = [
       {
         image: '/jalapeno.webp',
         name: 'Dried cranberry ',
-        price: 2,
-      },
-      {
-        image: '/parmesan.webp',
-        name: 'Caramel ',
         price: 2,
       },
     ],
@@ -294,10 +260,6 @@ const pizzas = [
         price: 2,
       },
       {
-        image: '/parmesan.webp',
-        name: 'Caramel ',
-        price: 2,
-      },
     ],
   },
   {
@@ -330,11 +292,6 @@ const pizzas = [
         name: 'Dried cranberry ',
         price: 2,
       },
-      {
-        image: '/parmesan.webp',
-        name: 'Caramel ',
-        price: 2,
-      },
     ],
   },
   {
@@ -365,11 +322,6 @@ const pizzas = [
       {
         image: '/jalapeno.webp',
         name: 'Dried cranberry',
-        price: 2,
-      },
-      {
-        image: '/parmesan.webp',
-        name: 'Caramel',
         price: 2,
       },
     ],
