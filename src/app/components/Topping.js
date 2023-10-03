@@ -21,7 +21,7 @@ const Topping = ({ topping, additionalTopping, setAdditionalTopping }) => {
     } else {
       // remove the topping with the matching name
       const newToppings = additionalTopping.filter((toppingObj) => {
-        return topping0bj.name !== topping.name;
+        return toppingObj.name !== topping.name;
       });
       setAdditionalTopping(newToppings);
     }
