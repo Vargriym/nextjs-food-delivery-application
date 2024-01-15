@@ -9,34 +9,53 @@
 </p>
 
 <p align="center">
-  <a href="#introduction"><strong>Introduction</strong></a> ·
-  <a href="#tech-stack"><strong>Tech Stack</strong></a> ·
-    <a href="#features"><strong>Features</strong></a> ·
+  <a href="#If-I-had-more-time-I-would-change-this"><strong>If I had more time I would change this</strong></a> ·
+  <a href="#Technologies-Used"><strong>Technologies Used</strong></a> ·
+    <a href="#How-I-worked-on-this-project">How I worked on this project</strong></a> ·
      <a href="#view-demo"><strong>View Demo</strong></a>
 
 </p>
 
 <br/>
 
-## View Demo
-https://nextjs-food-delivery-application.vercel.app
-
-<!-- ABOUT THE PROJECT -->
-
 ## Introduction
 
 This application offers a comprehensive and feature-rich experience, allowing users to effortlessly order mouthwatering waffles, personalize their order with delectable extra toppings. <br>
 By seamlessly integrating a user-friendly interface, the application creates an immersive and interactive experience that truly stands out.
+
+
+## How I worked on this project
+
+Planning:
+
+- Researched top food delivery apps and identified key features
+
+Design:
+
+- Defined global styles and component templates with Tailwind
+
+Development:
+
+- Built restaurants listings, menu, and order pages
+- Added shopping cart and delivery options
+
+## If I had more time I would change this
+
+- Add payments with Stripe Checkout
+- Customized integrations like delivery tracking and maps.
 
 ## Features
 - Effortlessly order mouthwatering waffles
 - Personalize your order with delectable extra toppings
 - Seamlessly proceed to checkout
 
-## Tech stack
+## Technologies Used
 
 - Next JS
 - Tailwind 
 - Vercel
+
+## View Demo
+https://nextjs-food-delivery-application.vercel.app
 
 
