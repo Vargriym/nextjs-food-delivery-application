@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-    <a href="#How-I-worked-on-this-project"><strong>How I worked on this project</strong></a> ·
-      <a href="#If-I-had-more-time-I-would-change-this"><strong>If I had more time I would change this</strong></a> ·
+    <a href="#How-I-worked-on-this-project"><strong>How I worked on this project</strong></a> -
+      <a href="#If-I-had-more-time-I-would-change-this"><strong>If I had more time I would change this</strong></a> -
      <a href="#view-demo"><strong>View Demo</strong></a>
 
 </p>
