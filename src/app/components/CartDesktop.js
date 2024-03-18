@@ -10,7 +10,7 @@ const CartDesktop = () => {
   return (
     <div
       className={`${
-        isOpen ? "left-0" : "-left-full"
+        isOpen ? "right-0" : "-right-full"
       } bg-white fixed top-0 bottom-0 w-[500px] shadow-2x1 hidden lg:flex flex-col transition-all duration-300`}
     >
       {/* cart top */}
