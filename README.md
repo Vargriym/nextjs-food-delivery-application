@@ -40,8 +40,8 @@ Development:
 
 ## If I had more time I would change this
 
-- Add payments with Stripe Checkout
-- Customized integrations like delivery tracking and maps.
+- Add payments with Stripe/Paypal Checkout
+- Customized integrations like delivery tracking and maps
 
 ## Features
 - Effortlessly order mouthwatering waffles
