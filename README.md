@@ -50,7 +50,7 @@ Development:
 
 ## Technologies Used
 
-- Next JS
+- Next
 - Tailwind 
 - Vercel
 
